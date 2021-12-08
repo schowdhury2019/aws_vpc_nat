@@ -9,8 +9,6 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 
 # Public Subnet Routing Table
-![image](https://user-images.githubusercontent.com/14828358/145201361-fba10e99-0bee-4d0b-bc8f-0da7b30845b6.png)
-
 ![image](https://user-images.githubusercontent.com/14828358/145218187-fad663a1-bd5a-4ce0-a507-124316d5d344.png)
 
 
@@ -18,15 +16,21 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 
 # Private Subnet Routing Table
-![image](https://user-images.githubusercontent.com/14828358/145201423-6aaa33d9-275c-4ba1-a316-df4fbd1d2a5b.png)
-
+![image](https://user-images.githubusercontent.com/14828358/145218403-bd26be54-6538-401d-a28b-553420117750.png)
 - Routing ICMP/internet traffic through nat instance `eni-0e697b1974e6d91c1`
+
+# NAT Subnet Routing Table
+
+![image](https://user-images.githubusercontent.com/14828358/145218635-8ac6a7e8-06bd-4125-b4d1-9cf7febf19db.png)
+
+
 
 
 # App Security Group
 
 ![image](https://user-images.githubusercontent.com/14828358/145201804-82a9153e-ea0e-4ee8-ad32-1a386d96bdae.png)
 
+![image](https://user-images.githubusercontent.com/14828358/145219247-835e3e89-01b8-4bc0-9a49-fe74ee45eb3d.png)
 
 
 # DB Security Group
