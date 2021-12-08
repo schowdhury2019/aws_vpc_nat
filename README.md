@@ -43,8 +43,6 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 ![image](https://user-images.githubusercontent.com/14828358/145219709-4d7d5955-34eb-4ad1-b8ca-42b84c2a5be3.png)
 
-![image](https://user-images.githubusercontent.com/14828358/145208373-104b4e71-f6f9-4ebc-8680-e061e7c130c8.png)
-
 ![image](https://user-images.githubusercontent.com/14828358/145214923-ff16ff7c-510e-454a-9a51-553edce27428.png)
 
 - Source / destination checking is performed by your EC2 instance by default
