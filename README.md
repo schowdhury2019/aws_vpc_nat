@@ -36,10 +36,10 @@
 ![image](https://user-images.githubusercontent.com/14828358/145203381-5afd3a01-b713-4960-809a-30b24ee292b6.png)
 
 
-VPC CIDR Block:   10.10.0.0/16
-Public Subnet:    10.10.1.0/24
-Private Subnet:   10.10.2.0/24
-Nat Subnet:       10.10.3.0/24
+- VPC CIDR Block:   10.10.0.0/16
+- Public Subnet:    10.10.1.0/24
+- Private Subnet:   10.10.2.0/24
+- Nat Subnet:       10.10.3.0/24
 
 
 
