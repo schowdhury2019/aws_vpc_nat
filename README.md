@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/14828358/145201896-96b2d327-fa53-42fd-be9f-3076b46ce59f.png)
 
 
-
+- Any TCP or ssh Requests from the public subnets can come through
 
 
 
