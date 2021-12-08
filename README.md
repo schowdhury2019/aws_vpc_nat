@@ -54,32 +54,12 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 ## VPC
 
+### Summary of VPC
+- 3 Route Table: Public, Private, NAT (Reference above)
+- 3 Instances: App Instance (Public Subnet), Database Instance (Private Subnet), NAT Instance (NAT Subnet)
+- VPC CIDR Block:   `10.10.0.0/16`
+- Public Subnet:    `10.10.1.0/24`
+- Private Subnet:   `10.10.2.0/24`
+- Nat Subnet:       `10.10.3.0/24`
+
 ![image](https://user-images.githubusercontent.com/14828358/145205489-bd25f4ff-4ff2-4401-8b5b-cc775ba8fcc6.png)
-
-- VPC CIDR Block:   10.10.0.0/16
-- Public Subnet:    10.10.1.0/24
-- Private Subnet:   10.10.2.0/24
-- Nat Subnet:       10.10.3.0/24
-
-
-
-### 2-Tier Achitecture Deployment
-
-**AWS Networking**
-
-- IP addresses
-- CDIR blocks
-- IPV4 and IPV6
-
-**VPC and its resources**
-![](VPC Diagram)
-
-- Route Table Rules
-- SG Rules
-- Subnet CIDR Blocks
-- Connectivity between app and db and nad db
-
-**2 Tier Architecture Deployment in our own VPC**
-![](Diagram)
-
-- Should have all rules at all levels
