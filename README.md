@@ -8,6 +8,7 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 ### Summary of VPC
 
 *NAT AMI*: `amzn-ami-vpc-nat-2018.03.0.20200918.0-x86_64-ebs - ami-01ae0e01e7fffd105`
+*Locate in community marketplace
 
 - 3 Route Table: Public, Private, NAT
 - 3 Instances: App Instance (Public Subnet), Database Instance (Private Subnet), NAT Instance (NAT Subnet)
