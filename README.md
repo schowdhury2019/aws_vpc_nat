@@ -35,6 +35,11 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 - ICMP to be trafficed from any address and is streamed through the nat instance
 
 
+# NAT Security Group
+
+![image](https://user-images.githubusercontent.com/14828358/145208373-104b4e71-f6f9-4ebc-8680-e061e7c130c8.png)
+
+
 
 ## VPC
 
