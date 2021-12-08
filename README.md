@@ -28,21 +28,20 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 # App Security Group
 
-![image](https://user-images.githubusercontent.com/14828358/145201804-82a9153e-ea0e-4ee8-ad32-1a386d96bdae.png)
-
 ![image](https://user-images.githubusercontent.com/14828358/145219247-835e3e89-01b8-4bc0-9a49-fe74ee45eb3d.png)
 
 
 # DB Security Group
 
-![image](https://user-images.githubusercontent.com/14828358/145201896-96b2d327-fa53-42fd-be9f-3076b46ce59f.png)
-
+![image](https://user-images.githubusercontent.com/14828358/145219501-8a8087a0-f83f-4229-90f4-f332d96c5d5b.png)
 
 - Any TCP or ssh Requests from the public subnets can come through
 - ICMP to be trafficed from any address and is streamed through the nat instance
 
 
 # NAT Security Group
+
+![image](https://user-images.githubusercontent.com/14828358/145219709-4d7d5955-34eb-4ad1-b8ca-42b84c2a5be3.png)
 
 ![image](https://user-images.githubusercontent.com/14828358/145208373-104b4e71-f6f9-4ebc-8680-e061e7c130c8.png)
 
