@@ -27,6 +27,7 @@
 
 
 - Any TCP or ssh Requests from the public subnets can come through
+- ICMP to be trafficed from any address and is streamed through the nat instance
 
 
 
