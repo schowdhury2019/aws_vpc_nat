@@ -3,9 +3,22 @@
 Creating VPC, Internet Gateway, Subnets, Routing Tables:
 https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
+## VPC
 
+### Summary of VPC
 
 *NAT AMI*: `amzn-ami-vpc-nat-2018.03.0.20200918.0-x86_64-ebs - ami-01ae0e01e7fffd105`
+
+- 3 Route Table: Public, Private, NAT (Reference above)
+- 3 Instances: App Instance (Public Subnet), Database Instance (Private Subnet), NAT Instance (NAT Subnet)
+- VPC CIDR Block:   `10.10.0.0/16`
+- Public Subnet:    `10.10.1.0/24`
+- Private Subnet:   `10.10.2.0/24`
+- Nat Subnet:       `10.10.3.0/24`
+
+![image](https://user-images.githubusercontent.com/14828358/145205489-bd25f4ff-4ff2-4401-8b5b-cc775ba8fcc6.png)
+
+
 
 
 # Public Subnet Routing Table
@@ -50,16 +63,3 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 - Otherwise you can't ping from DB instance
 
 ![image](https://user-images.githubusercontent.com/14828358/145214954-d1e9558d-d2c5-4e11-9442-b1f0870e235e.png)
-
-
-## VPC
-
-### Summary of VPC
-- 3 Route Table: Public, Private, NAT (Reference above)
-- 3 Instances: App Instance (Public Subnet), Database Instance (Private Subnet), NAT Instance (NAT Subnet)
-- VPC CIDR Block:   `10.10.0.0/16`
-- Public Subnet:    `10.10.1.0/24`
-- Private Subnet:   `10.10.2.0/24`
-- Nat Subnet:       `10.10.3.0/24`
-
-![image](https://user-images.githubusercontent.com/14828358/145205489-bd25f4ff-4ff2-4401-8b5b-cc775ba8fcc6.png)
