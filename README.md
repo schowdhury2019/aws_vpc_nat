@@ -1,6 +1,6 @@
 # AWS Networking
 
-*NAT AMI*: amzn-ami-vpc-nat-2018.03.0.20200918.0-x86_64-ebs - ami-01ae0e01e7fffd105
+*NAT AMI*: `amzn-ami-vpc-nat-2018.03.0.20200918.0-x86_64-ebs - ami-01ae0e01e7fffd105`
 
 
 # Public Subnet Routing table
@@ -17,8 +17,13 @@
 
 # App Security Group
 
+![image](https://user-images.githubusercontent.com/14828358/145201804-82a9153e-ea0e-4ee8-ad32-1a386d96bdae.png)
+
+
+
 # DB Security Group
 
+![image](https://user-images.githubusercontent.com/14828358/145201896-96b2d327-fa53-42fd-be9f-3076b46ce59f.png)
 
 
 
