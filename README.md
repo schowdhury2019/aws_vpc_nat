@@ -9,7 +9,7 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 *NAT AMI*: `amzn-ami-vpc-nat-2018.03.0.20200918.0-x86_64-ebs - ami-01ae0e01e7fffd105`
 
-- 3 Route Table: Public, Private, NAT (Reference above)
+- 3 Route Table: Public, Private, NAT
 - 3 Instances: App Instance (Public Subnet), Database Instance (Private Subnet), NAT Instance (NAT Subnet)
 - VPC CIDR Block:   `10.10.0.0/16`
 - Public Subnet:    `10.10.1.0/24`
