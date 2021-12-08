@@ -1,5 +1,10 @@
 # AWS Networking
 
+Creating VPC, Internet Gateway, Subnets, Routing Tables:
+https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
+
+
+
 *NAT AMI*: `amzn-ami-vpc-nat-2018.03.0.20200918.0-x86_64-ebs - ami-01ae0e01e7fffd105`
 
 
