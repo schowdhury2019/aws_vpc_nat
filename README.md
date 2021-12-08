@@ -39,6 +39,12 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 ![image](https://user-images.githubusercontent.com/14828358/145208373-104b4e71-f6f9-4ebc-8680-e061e7c130c8.png)
 
+![image](https://user-images.githubusercontent.com/14828358/145214923-ff16ff7c-510e-454a-9a51-553edce27428.png)
+
+- Source / destination checking is performed by your EC2 instance by default. 
+- Stop source / destination checking if you want to allow your instance to handle network traffic that isn’t specifically destined for it.
+
+![image](https://user-images.githubusercontent.com/14828358/145214954-d1e9558d-d2c5-4e11-9442-b1f0870e235e.png)
 
 
 ## VPC
