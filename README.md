@@ -8,13 +8,16 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 *NAT AMI*: `amzn-ami-vpc-nat-2018.03.0.20200918.0-x86_64-ebs - ami-01ae0e01e7fffd105`
 
 
-# Public Subnet Routing table
+# Public Subnet Routing Table
 ![image](https://user-images.githubusercontent.com/14828358/145201361-fba10e99-0bee-4d0b-bc8f-0da7b30845b6.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145218187-fad663a1-bd5a-4ce0-a507-124316d5d344.png)
+
 
 - Only public routing table is linked to internet gateway
 
 
-# Private Subnet Routing table
+# Private Subnet Routing Table
 ![image](https://user-images.githubusercontent.com/14828358/145201423-6aaa33d9-275c-4ba1-a316-df4fbd1d2a5b.png)
 
 - Routing ICMP/internet traffic through nat instance `eni-0e697b1974e6d91c1`
