@@ -38,8 +38,7 @@ https://github.com/schowdhury2019/eng99CloudAWS/blob/main/README2.md
 
 ## VPC
 
-![image](https://user-images.githubusercontent.com/14828358/145203381-5afd3a01-b713-4960-809a-30b24ee292b6.png)
-
+![image](https://user-images.githubusercontent.com/14828358/145205489-bd25f4ff-4ff2-4401-8b5b-cc775ba8fcc6.png)
 
 - VPC CIDR Block:   10.10.0.0/16
 - Public Subnet:    10.10.1.0/24
